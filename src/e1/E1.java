@@ -5,10 +5,10 @@ public class E1 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		// int n1 = 3;
-		int n1 = (int) 3f;
+		// Ok 
+		int n1 = 3;
 
-		// Implicit casting
+		// Implicit casting 
 		float n2 = 3;
 
 		// Implicit casting
